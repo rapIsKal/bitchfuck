@@ -23,11 +23,11 @@ for example just
 1. download this shit nigga, I mean bitchfuck.py and test.btf
 2. launch that from terminal in directory of download 
 ```
-python brainfuck.py test.btf
+python bitchfuck.py test.btf
 ```
  - for interactive regime fucker just do
 ```
-python brainfuck.py
+python bitchfuck.py
 ```
 If you fuck your brain man and you already have you boo brainfuck code just run translator
 ```
