@@ -44,6 +44,8 @@ and run voice tranformation:
 python btf_to_voice.py test.btf
  
 ```
+it will make complete song from your text, written in 'test.btf' and bit from file bit.mp3
+
 to listen install "ffmpeg" or just run test.mp3
 ### What's up next niggaz
 
