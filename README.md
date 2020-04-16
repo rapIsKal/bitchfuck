@@ -33,6 +33,20 @@ If you fuck your brain man and you already have you boo brainfuck code just run 
 ```
 python bf_to_btf.py test.bf
 ```
+
+if you want to hear better voice acting, install gTTS:
+```
+pip3 install gTTS
+
+```
+and run voice tranformation:
+```
+python btf_to_voice.py test.btf
+ 
+```
+it will make complete song from your text, written in 'test.btf' and bit from file bit.mp3
+
+to listen install "ffmpeg" or just run test.mp3
 ### What's up next niggaz
 
 Of course it's just an MVP of MVP. In future plans Bitchfuck would decode reapper tracks
