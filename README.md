@@ -1,7 +1,7 @@
 #### DISCLAIMER! ####
 **WITH THE HELP OF THIS INSTRUMENT YOU CAN MAKE SCIENTIFIC ARTICLES PRETENDING YOU'RE RAPPER111!!**
 
-####  Welcome to BITCHFUCK 0.0.1 Nigga
+####  Welcome to BITCHFUCK 0.0.2 Nigga
 you can run this shit man to make some cool rap programs you know that
 
 #### HOWTO
